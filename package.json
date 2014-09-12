@@ -1,6 +1,6 @@
 {
-  "name": "b0rked.js",
-  "version": "0.0.1",
+  "name": "b0rkedjs",
+  "version": "0.0.2",
   "description": "b0rked.js is not a full-blown W3C-like validator",
   "main": "b0rked.js",
   "scripts": {
